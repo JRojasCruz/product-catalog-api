@@ -2,8 +2,8 @@
 
 API REST desarrollada en ASP.NET Core 8 con Entity Framework Core InMemory.
 
-Está hecho con .NET 8 usando una base de datos en memoria (InMemory), lo cual hace que sea muy fácil de ejecutar sin necesidad de instalar nada adicional.
-Usé la nueva forma de trabajar con APIs mínimas (MapGet, MapPost, etc.) para mantener todo en un solo archivo (Program.cs), ideal para proyectos pequeños.
+Está hecho con .NET 8 usando una base de datos en memoria (InMemory).
+Usé la nueva forma de trabajar con APIs mínimas (MapGet, MapPost, etc.) para mantener todo en un solo archivo (Program.cs).
 Toda la lógica se mantiene clara y concentrada:
 
     Models/ tiene el modelo Product
